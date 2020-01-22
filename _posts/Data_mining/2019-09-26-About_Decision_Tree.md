@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "About Decision Tree"
-subtitle:   "Decision Tree 구하기"
+subtitle:   "Decision Tree 개념 및 구하기"
 date:       2019-09-26 13:51:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
