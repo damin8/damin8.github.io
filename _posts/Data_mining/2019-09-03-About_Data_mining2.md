@@ -7,7 +7,7 @@ author:     "Damin"
 header-img: "img/tag-bg.jpg"
 header-mask: 0.3
 catalog:    true
-categories: web
+categories: Data_mining
 tags:
   - Data mining
 ---
