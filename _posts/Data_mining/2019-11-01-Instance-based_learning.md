@@ -2,7 +2,7 @@
 layout:     post
 title:      "Intance-based learning"
 subtitle:   "Intance-based learning 개념 및 "
-date:       2019-09-03 18:17:00
+date:       2019-11-01 18:17:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
 header-mask: 0.3
@@ -44,13 +44,13 @@ Instance based rule은 너무 비효율적이지 않은가?
 
 #### 그래서 나온 kD-tree!!
 
-![kD-tree1.PNG](./img/kD-tree1.PNG)<br>
+![kD-tree1.PNG](/img/in-post/Data_mining/kD-tree1.PNG)<br>
 
 이런식으로 나타낼 수 있다.
 
 트리로 나타낸다면?
 
-![kD-tree2.PNG](./img/kD-tree2.PNG)<br>
+![kD-tree2.PNG](/img/in-post/Data_mining/kD-tree2.PNG)<br>
 
 이렇게 나온다!!
 
@@ -88,7 +88,7 @@ x를 기준으로 비교를 해준다.
 
 4번째 영역으로 recommend 해주게 된다!
 
-![kD-tree4.PNG](./img/kD-tree4.PNG)<br>
+![kD-tree4.PNG](/img/in-post/Data_mining/kD-tree4.PNG)<br>
 
 이렇게 7번 Intance와 제일 가깝지만
 
@@ -98,5 +98,5 @@ x를 기준으로 비교를 해준다.
 
 #### 따라서 구의 형태로 나타내 주자! = Ball tree
 
-![Balltree.PNG](./img/Balltree.PNG)<br>
+![Balltree.PNG](/img/in-post/Data_mining/Balltree.PNG)<br>
 
