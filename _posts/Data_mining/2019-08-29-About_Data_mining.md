@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "Data mining 이란?"
 subtitle:   "Data mining의 개념"
