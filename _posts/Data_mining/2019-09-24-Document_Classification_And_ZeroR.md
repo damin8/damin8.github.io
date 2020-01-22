@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Document Classification & ZeroR"
-subtitle:   "Document Classification & ZeroR 구하기"
+subtitle:   "Document Classification & ZeroR 개념 및 구하기"
 date:       2019-09-24 20:32:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
