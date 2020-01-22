@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Data mining 이란? -2"
-subtitle:   "Data mining의 개념"
+title:      "About Covering Algorithm"
+subtitle:   "Covering Algorithm 개념 및 구하기"
 date:       2019-10-10 20:11:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
