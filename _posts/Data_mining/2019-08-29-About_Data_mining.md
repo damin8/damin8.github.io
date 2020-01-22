@@ -49,7 +49,7 @@ Domain
 
 ## Incremental Machine Learning
 
-![DM1](../../img/in-post/Data_mining/DM1.PNG)</br>
+![DM1](./../../img/in-post/Data_mining/DM1.PNG)
 
 Modeling한 데이터들을 Machine Learning에 넣고 나온 결과 값(Knowledge)을 Agent에 넣어준다.
 
