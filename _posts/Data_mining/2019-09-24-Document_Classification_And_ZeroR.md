@@ -30,7 +30,7 @@ document = 단어의 가방이라고 볼 수 있다.
 
 다 같다고 가정을 한다.
 
-![document_classification](./img/document_classification.PNG) <br>
+![document_classification](/img/in-post/Data_mining/document_classification.PNG) <br>
 
 이 식을 보자
 
@@ -50,7 +50,7 @@ document topic 에 'yellow' 와 'blue'가 있다고 가정하자.
 
 class H에서는
 
-![p_blue_yellow](./img/p_blue_yellow.PNG) <br>
+![p_blue_yellow](/img/in-post/Data_mining/p_blue_yellow.PNG) <br>
 
 의 값을 가진다.
 
@@ -82,7 +82,7 @@ class H 에서 {blue yellow blue} = 14%
 
 이제 class H' 를 보자
 
-![H'](./img/H'.PNG) <br>
+![H'](/img/in-post/Data_mining/H'.PNG) <br>
 
 ~~~
 
