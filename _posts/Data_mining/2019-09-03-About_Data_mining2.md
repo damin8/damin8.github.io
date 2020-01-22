@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Data mining 이란?"
+title:      "Data mining 이란? -2"
 subtitle:   "Data mining의 개념"
 date:       2019-09-03 18:17:00
 author:     "Damin"
