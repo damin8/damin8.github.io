@@ -4,7 +4,7 @@
   <div class="sidebar-nav-item"><h5> CATEGORY <span class="badge">{{site.posts | size}}</span></h5></div>
   <nav class="content-ul">
     {% for category in site.categories %}
-    <a href="{{ root_url }}/{{ site.category_dir }}{{ category | first }}"
+    <a href="{{ root_url }}/archive/?tag={{ site.category_dir }}{{ category | first }}"
        class="sidebar-nav-item pl-3rem">
                           <span class="name">
                               {{ category | first }}
