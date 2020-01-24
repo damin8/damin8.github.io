@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "About Decision Tree -2"
 subtitle:   "Decision Tree(nominal)"
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Data_mining
 tags:
-  - Data mining
+  - Data_mining
 ---
 
 ## Decision tree

@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "Data mining 이란? -2"
 subtitle:   "Data mining의 개념"
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Data_mining
 tags:
-  - Data mining
+  - Data_mining
 ---
 
 ## Agent의 output

@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "About Covering Algorithm"
 subtitle:   "Covering Algorithm 개념 및 구하기"
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Data_mining
 tags:
-  - Data mining
+  - Data_mining
 ---
 
 # Covering algorithm

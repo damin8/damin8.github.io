@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "State Pattern"
 subtitle:   "About State Pattern"
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Design_Pattern
 tags:
-  - Design Pattern
+  - Design_Pattern
 ---
 
 # State Pattern

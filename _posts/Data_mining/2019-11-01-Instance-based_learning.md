@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "Intance-based learning"
 subtitle:   "Intance-based learning 개념 및 "
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Data_mining
 tags:
-  - Data mining
+  - Data_mining
 ---
 
 # Instance-based learning

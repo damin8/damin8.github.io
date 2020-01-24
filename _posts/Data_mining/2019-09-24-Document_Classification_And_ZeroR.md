@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "Document Classification & ZeroR"
 subtitle:   "Document Classification & ZeroR 개념 및 구하기"
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Data_mining
 tags:
-  - Data mining
+  - Data_mining
 ---
 
 ## Bayesian models for document classification

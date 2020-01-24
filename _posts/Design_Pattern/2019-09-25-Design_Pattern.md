@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "Design Pattern"
 subtitle:   "디자인 패턴이란?"
@@ -9,8 +9,8 @@ header-mask: 0.3
 catalog:    true
 categories: Design_Pattern
 tags:
-  - Design Pattern
-  - Software Engineering
+  - Design_Pattern
+  - Software_Engineering
 ---
 
 ### 디자인 패턴

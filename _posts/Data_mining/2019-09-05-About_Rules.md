@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "About Rules"
 subtitle:   "다양한 Rule의 개념"
@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog:    true
 categories: Data_Mining
 tags:
-  - Data mining
+  - Data_mining
 ---
 
 ## divide-and-conquer
