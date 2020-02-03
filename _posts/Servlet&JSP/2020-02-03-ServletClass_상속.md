@@ -27,6 +27,7 @@ Get 요청과 Post 요청 처리를 다르게 하고 싶다면
 - if 문으로 나눠서 Get 요청과 Post 요청을 나눠서 처리하면 된다.
 
 - 반드시!!! super.service를 주석처리 해야 한다.
+
 ~~~
 왜? super.service에는 doPost 와 doGet 메서드를 호출한다. 
 
