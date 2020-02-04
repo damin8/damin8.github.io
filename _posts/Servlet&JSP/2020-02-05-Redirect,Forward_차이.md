@@ -113,4 +113,6 @@ Forward = 재사용 ⭕
 
 - 변화가 생기지 않고 단순 조회의 경우 = forward
 
+#### Reference
 
+[Redirect VS Forward](https://doublesprogramming.tistory.com/63)
