@@ -2,7 +2,7 @@
 layout:     post
 title:      "Redirect vs Forward"
 subtitle:   "Redirect 와 Forward 차이"
-date:       2020-02-05 02:45:00
+date:       2020-02-05 16:45:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
 header-mask: 0.3
