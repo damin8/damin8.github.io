@@ -34,7 +34,7 @@ Spring Boot 에서는 확장자를 'jar'로 배포 하면 JSP 사용이 불가�
 
 ![2](/img/in-post/Spring/2.PNG)<br>
 
-- ServletInitializer class에 ** @SpringBootApplication ** 어노테이션 추가
+- ServletInitializer class에 **@SpringBootApplication** 어노테이션 추가
 
 - configure 함수의 코드도 위와 같이 수정
 
