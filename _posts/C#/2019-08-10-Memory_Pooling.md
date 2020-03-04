@@ -7,9 +7,9 @@ author:     "Damin"
 header-img: "img/tag-bg.jpg"
 header-mask: 0.3
 catalog:    true
-categories: C#
+categories: C_sharp
 tags:
-  - C#
+  - C_sharp
 ---
 
 ## Memory Pooling
