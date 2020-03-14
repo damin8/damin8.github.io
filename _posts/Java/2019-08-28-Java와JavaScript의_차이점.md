@@ -46,3 +46,5 @@ C를 비롯한 다른 언어들은 플랫폼마다 다르게 개발해야 한다
 변수 자료형을 미리 선언하지 않아도 브라우저가 자동으로 파악
 
 컴파일 과정을 거치지 않는다.
+
+<script src="https://utteranc.es/client.js" repo="damin8/blog-comment" issue-term="title" label="Comment" theme="github-light" crossorigin="anonymous" async> </script>
