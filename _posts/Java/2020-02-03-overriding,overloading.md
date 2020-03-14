@@ -37,3 +37,5 @@ tags:
 - 메서드마다 return type이 다를 수도 있다. (같아도 된다)
 
 ![OverloadingTest](/img/in-post/Java/OverloadingTest.PNG)
+
+<script src="https://utteranc.es/client.js" repo="damin8/blog-comment" issue-term="title" label="Comment" theme="github-light" crossorigin="anonymous" async> </script>
