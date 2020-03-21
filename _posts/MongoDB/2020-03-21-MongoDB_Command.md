@@ -134,6 +134,7 @@ option
 
 - db.OLDSamsung.renameCollection("NEWMac") : 이름 변경
 
-
+<script src="https://utteranc.es/client.js" repo="damin8/blog-comment" issue-term="title" label="Comment" theme="github-light" crossorigin="anonymous" async>
+</script>
 
 
