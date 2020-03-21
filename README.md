@@ -4,5 +4,5 @@ URL = [Damin's Blog](https://damin8.github.io/)
 
 # Notion
 
-URL = [Shin Da min](https://www.notion.so/Shin-Da-Min-6b60229a02484f7bbfe71d148d1df0c0)
+URL = [Favian](https://www.notion.so/Favian-7765a45c95c04347b10fa97c7effe0eb)
 
