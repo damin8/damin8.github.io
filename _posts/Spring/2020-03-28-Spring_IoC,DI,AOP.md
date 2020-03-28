@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Spring IoC,DI"
+title:      "Spring IoC,DI,AOP"
 subtitle:   "About Ioc,DI,AOP"
 date:       2020-03-27 22:31:00
 author:     "Damin"
