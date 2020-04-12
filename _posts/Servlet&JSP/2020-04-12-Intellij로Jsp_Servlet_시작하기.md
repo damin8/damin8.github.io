@@ -70,7 +70,7 @@ tags:
 
 ![IntelliJ5.PNG](/img/in-post/Servlet_JSP/IntelliJ8.PNG)
 
-> 만약 Edit Configuration으로 잡혀 있다면 클릭한 후에 우측 상단에 edit configuration button 을 누르면 완료~!
+> 만약 add Configuration으로 잡혀 있다면 클릭한 후에 우측 상단에 create configuration 을 누르면 완료~!
 
 - index.jsp 파일로 이동해서 실행시켜보자. (우측 상단 초록색 화살표 버튼)
 
