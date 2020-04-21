@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Autowired"
+title:      "new Instance에 Autowired Annotation 사용하기"
 subtitle:   "Application Context"
-date:       2020-03-28 22:31:00
+date:       2020-04-22 22:31:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
 header-mask: 0.3
