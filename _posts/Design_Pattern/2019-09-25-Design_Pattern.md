@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "Design Pattern"
 subtitle:   "디자인 패턴이란?"
