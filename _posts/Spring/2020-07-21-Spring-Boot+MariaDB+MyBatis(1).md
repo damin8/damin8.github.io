@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Spring Boot + MariaDB + MyBatis (1)"
-subtitle:   "Hello world"
+subtitle:   "Ubuntu에 MariaDB 설치"
 date:       2020-07-21 22:31:00
 author:     "Damin"
 header-img: "img/tag-bg.jpg"
@@ -11,7 +11,6 @@ categories: Spring
 tags:
   - Spring
   - MariaDB
-  - GCP
   - MyBatis
 ---
 
@@ -38,6 +37,14 @@ tags:
 이렇게 넘어가는 시점을 기준으로 기록을 남기고 싶어 쓴다.
 
 ## Ubuntu에 MariaDB 설치
+
+내 컴퓨터의 OS는 Window이다.
+
+하지만 Ubuntu에 있는 DB로 접근을 할 것이기 때문에 (외부에서 접속) Ubuntu에 MariaDB를 설치할 것이다.
+
+자신이 Local에서만 실행할 것이라면 Local 컴퓨터 OS의 맞게 MariaDB 설치👨
+
+---
 
 ```
 sudo apt-get install -y mariadb-server
@@ -121,12 +128,11 @@ flush privileges;
 
 다음시간 👨‍💻
 
-- Spring boot 와 MariaDB 연동
-- MyBatis 활용
+- Spring boot 와 MariaDB 연동 (feat.MyBatis)
 
 ## Reference
 
-[New Instance 의존성 주입](https://nowonbun.tistory.com/423)
+[Ubuntu MariaDB 설치](https://nowonbun.tistory.com/423)
 
 <script src="https://utteranc.es/client.js" repo="damin8/blog-comment" issue-term="title" label="Comment" theme="github-light" crossorigin="anonymous" async>
 </script>
