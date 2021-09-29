@@ -2,7 +2,7 @@
 layout: post
 title: "Git Branch"
 subtitle: "Git Branch 전략"
-date: 2021-06-28 15:34:00
+date: 2021-07-01 15:34:00
 author: "Damin"
 header-img: "img/tag-bg.jpg"
 header-mask: 0.3
